@@ -1,6 +1,8 @@
 ![Antox](http://vexx.us/Images/AntoxFull.png "Antox Tox Android Client")
 =====
 
+[![Join the chat at https://gitter.im/mquandalle/Antox](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mquandalle/Antox?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Antox is an Android client for Tox. It aims to bring the full multimedia support Tox offers to your device, although it's still currently in heavy development. Antox is built on current design guidelines, and is both fast and fluid. Support for stickers, geo-location, and other various services offered by other competeting applications are currently being decided upon. Once ready, Antox will be available on Google Play and on F-Droid.
 
 [![tip for next commit](http://tip4commit.com/projects/654.svg)](http://tip4commit.com/projects/654)
